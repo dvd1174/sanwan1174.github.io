@@ -33,15 +33,39 @@
         },
         {
             "name": "PicsArt++",
-            "version": "13.3.1",
+            "version": "14.5.1",
             "versionDate": "2021-02-07",
             "versionDescription": "作者：DzMohaipa\n描述：一款强大的修图软件，修改为Premium会员",
             "lock": "0",
-            "downloadURL": "https://cdn.appvalley.vip/appValley-ipa/1744.ipa",
+            "downloadURL": "https://ipadzmoha.com/dzmohaipa/uploads/PicsArt++.ipa",
             "isLanZouCloud": "0",
             "iconURL": "https://img.appvalley.vip/appValley-pic/appImg_1572442422579cydia-1900000593-icon.png",
             "tintColor": "",
-            "size": "94371840"
+            "size": "33764147.2"
+        },
+        {
+            "name": "InShot++",
+            "version": "1.47.0",
+            "versionDate": "2021-02-07",
+            "versionDescription": "作者：DzMohaipa\n描述：专业的高清视频编辑和视频制作App，修改为会员",
+            "lock": "0",
+            "downloadURL": "https://ipadzmoha.com/dzmohaipa/uploads/inShot++.ipa",
+            "isLanZouCloud": "0",
+            "iconURL": "https://dzmohaipa.com/app/En/img/inShot++.png",
+            "tintColor": "",
+            "size": "51799654.4"
+        },
+        {
+            "name": "Sleep Cycle++",
+            "version": "6.5.1",
+            "versionDate": "2021-02-07",
+            "versionDescription": "作者：DzMohaipa\n描述：追踪分析你的睡眠情况，在最佳时机唤醒你，让你感到轻松。修改为会员版",
+            "lock": "0",
+            "downloadURL": "https://ipadzmoha.com/dzmohaipa/uploads/SleepCycle++.ipa",
+            "isLanZouCloud": "0",
+            "iconURL": "https://dzmohaipa.com/app/img/Sleep.png",
+            "tintColor": "",
+            "size": "78748057.6"
         },
         {
             "name": "滑雪大冒险2",
