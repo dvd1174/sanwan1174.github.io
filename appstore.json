@@ -1,11 +1,11 @@
 {
     "name": " Sanwan's AltStore",
     "message": "三万的软件源\r\n测试中...\r\n软件发布/收录请联系QQ:SANWAN1174",
-    "identifier": "https://qnq.nuosike.cn/appstore",
-    "sourceURL": "https://qnq.nuosike.cn/appstore",
+    "identifier": "https://sanwan1174.github.io/appstore.json",
+    "sourceURL": "https://sanwan1174.github.io/appstore.json",
     "sourceicon": "https://app.nk8686.com/uploads/20200920/110fa335493e1bb6d157a954952c0a69.png",
     "payURL": "https://pay.nuosike.cn/c/vnnz6d10bmim7dz0njfr",
-    "unlockURL": "https://sanwan1174.github.io/appstore",
+    "unlockURL": "https://sanwan1174.github.io/appstore.json",
     "apps": [
         {
             "name": "全能签",
