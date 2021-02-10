@@ -1,6 +1,6 @@
 {
     "name": " Sanwan's AltStore",
-    "message": "三万的软件源\r\n测试中...\r\n软件发布/收录请联系QQ:SANWAN1174\n若下载无速度则需要代理，推荐i7q.cn/5OF83r（在Safari中打开）",
+    "message": "三万的软件源\r\n输入8888兑换免费企业证书\r\n源中软件均来自网络\r\n软件发布/收录请联系:sanwan1174@gmail.com\r\n若出现下载无速度请使用代理",
     "identifier": "https://sanwan1174.github.io/appstore.json",
     "sourceURL": "https://sanwan1174.github.io/appstore.json",
     "sourceicon": "https://app.nk8686.com/uploads/20200920/110fa335493e1bb6d157a954952c0a69.png",
@@ -78,6 +78,18 @@
             "iconURL": "https://topstore.vip/image/1121012122.png",
             "tintColor": "",
             "size": "141316587.52"
+        },
+        {
+            "name": "TouchRetouch",
+            "version": "4.2.1",
+            "versionDate": "2021-02-10",
+            "versionDescription": "作者：DzMohaipa\n描述：修改为全功能内购版。",
+            "lock": "0",
+            "downloadURL": "https://ipadzmoha.com/dzmohaipa/uploads/TouchRetouch.ipa",
+            "isLanZouCloud": "0",
+            "iconURL": "https://dzmohaipa.com/app/img/TouchRetouch.png",
+            "tintColor": "",
+            "size": "12687769.6"
         },
         {
             "name": "滑雪大冒险2",
