@@ -20,6 +20,18 @@
             "size": "3313500.16"
         },
         {
+            "name": "Quantumult",
+            "version": "2.2.8",
+            "versionDate": "2021-02-10",
+            "versionDescription": "作者：Quantumult\n描述：一款iOS端强大的上网工具，推荐✈️：http://i7q.cn/5OF83r",
+            "lock": "0",
+            "downloadURL": "https://od.aneeo.com/show/iPA/2-1542603480.ipa",
+            "isLanZouCloud": "0",
+            "iconURL": "https://img.aneeo.com/2019/04/28/5cc59bcc79881.jpg",
+            "tintColor": "",
+            "size": "17511219.2"
+        },
+        {
             "name": "证书测试",
             "version": "1",
             "versionDate": "2021-01-29",
