@@ -23,7 +23,7 @@
             "name": "Quantumult",
             "version": "2.2.8",
             "versionDate": "2021-02-10",
-            "versionDescription": "作者：Quantumult\n描述：一款iOS端强大的上网工具，推荐✈️：http://i7q.cn/5OF83r",
+            "versionDescription": "作者：Quantumult\n描述：一款iOS端强大的上网工具，推荐✈️：\nhttp://i7q.cn/5OF83r",
             "lock": "0",
             "downloadURL": "https://od.aneeo.com/show/iPA/2-1542603480.ipa",
             "isLanZouCloud": "0",
@@ -114,6 +114,18 @@
             "iconURL": "https://img.appvalley.vip/appValley-pic/appImg_1553092534701.png",
             "tintColor": "",
             "size": "59349401.6"
+        },
+        {
+            "name": "哔咔漫画",
+            "version": "2.1.2.5",
+            "versionDate": "2021-02-10",
+            "versionDescription": "作者：哔咔漫画\n描述：PicAcg让你可以轻松看到不同的本子，界面美观易用，分类齐全，每日更新，绅士必看！",
+            "lock": "0",
+            "downloadURL": "https://d1.httpuse.xyz/files/apk/20063/ipa%E5%AE%89%E8%A3%9D%E6%AA%94/Bika-2.1.2.5-2020.11.14-GDaily.org.ipa",
+            "isLanZouCloud": "0",
+            "iconURL": "https://www.picacomic.com/images/android-icon-192x192.png",
+            "tintColor": "",
+            "size": "10328473.6"
         },
         {
             "name": "滑雪大冒险2",
