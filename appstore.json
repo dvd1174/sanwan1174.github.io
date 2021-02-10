@@ -92,6 +92,18 @@
             "size": "12687769.6"
         },
         {
+            "name": "Minecraft",
+            "version": "1.8.0.24",
+            "versionDate": "2021-02-10",
+            "versionDescription": "作者：Mojang",
+            "lock": "0",
+            "downloadURL": "http://185.246.209.74/ipa/1026144751.ipa",
+            "isLanZouCloud": "0",
+            "iconURL": "https://img.appvalley.vip/appValley-pic/appImg_1553092534701.png",
+            "tintColor": "",
+            "size": "59349401.6"
+        },
+        {
             "name": "滑雪大冒险2",
             "version": "1.2.6",
             "versionDate": "2021-02-07",
