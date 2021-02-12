@@ -3,7 +3,7 @@
     "message": "发布/收录请联系:\r\nsanwan1174@gmail.com（主题备注三万源）\r\n若出现下载无速度请使用代理，源中软件均来自网络",
     "identifier": "https://sanwan1174.github.io/appstore.json",
     "sourceURL": "https://sanwan1174.github.io/appstore.json",
-    "sourceicon": "https://app.nk8686.com/uploads/20200920/110fa335493e1bb6d157a954952c0a69.png",
+    "sourceicon": "https://app.nk8686.com/uploads/20210210/a329f6fb365642fb176f4daa6b54d211.png",
     "payURL": "https://pay.nuosike.cn/c/vnnz6d10bmim7dz0njfr",
     "unlockURL": "https://sanwan1174.github.io/appstore.json",
     "apps": [
@@ -80,10 +80,10 @@
             "size": "78748057.6"
         },
         {
-            "name": "TikTok++",
-            "version": "8.7.0",
+            "name": "TikTok Unicorn（暂不提供下载）",
+            "version": "18.3.0",
             "versionDate": "2021-02-10",
-            "versionDescription": "作者：UnlimApps\n描述：原版基础之上的更进与修改，去除保存水印。",
+            "versionDescription": "作者：ClassicEmoji\n描述：为原版TikTok增添了超过25项功能。",
             "lock": "0",
             "downloadURL": "http://185.246.209.74/ipa/1121012122.ipa",
             "isLanZouCloud": "0",
